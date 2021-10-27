@@ -1,6 +1,6 @@
 `A Video Streaming App With Vue.js, Node, And Express`
 
-# Tech Stack
+💻 Technologies
 
 > Node.js
 
@@ -10,7 +10,15 @@
 
 > Typescript
 
-# Instructions to Run This
+📥 Pre-reqs
+
+To build and run this app locally you will need a few things:
+
+- Install Node.js
+- Install Vue CLI
+- Install VS Code
+
+👷 How to run
 
 > open the project in vs code or any editor of your favorite
 
