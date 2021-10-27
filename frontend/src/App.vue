@@ -1,9 +1,8 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+  <div>
+    <Header />
+    <router-view />
   </div>
-  <router-view/>
 </template>
 
 <style>
@@ -28,3 +27,15 @@
   color: #42b983;
 }
 </style>
+
+<script lang="ts">
+import { defineComponent } from "vue";
+import Header from "./components/Header.vue";
+
+export default defineComponent({
+  name: "App",
+  components: {
+    Header,
+  },
+});
+</script>
