@@ -1,0 +1,1672 @@
+[
+  {
+    "page": 1,
+    "pageSize": 20,
+    "numPages": 7,
+    "numRows": 135,
+    "data": [
+      {
+        "id": 1353,
+        "user_id": 180,
+        "team_id": 117,
+        "training_session_id": 360,
+        "title": "aziz.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/cricket-club/duration-test/31-01-2021/5d40b889-9077-4e2a-ad7f-42a162c7f812_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/cricket-club/duration-test/31-01-2021/5d40b889-9077-4e2a-ad7f-42a162c7f812.png",
+        "description": null,
+        "training_date": "2021-01-31T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["01-02-2021", "Senior 3"]
+        },
+        "created_at": "2021-02-01T14:49:50.631Z",
+        "updated_at": "2021-02-01T14:54:50.535Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 29.14,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 117,
+          "name": "Senior 3",
+          "is_private": false,
+          "slug": "duration-test"
+        }
+      },
+      {
+        "id": 1352,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 359,
+        "title": "video1611818089521.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/cricket-club/valid-1/28-01-2021/dd57d0cc-7408-4220-ae9b-109669086fbc_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/cricket-club/valid-1/28-01-2021/dd57d0cc-7408-4220-ae9b-109669086fbc.png",
+        "description": null,
+        "training_date": "2021-01-28T00:00:00.000Z",
+        "metadata": {
+          "actions": []
+        },
+        "tags": {
+          "tags": ["Senior 1"]
+        },
+        "created_at": "2021-01-28T07:15:06.492Z",
+        "updated_at": "2021-01-28T07:16:05.232Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 2.12,
+        "size": 110574,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 1,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1298,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 344,
+        "title": "IMG_8095.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/f91f21d4-a338-455e-8527-f4ded9432e85_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/f91f21d4-a338-455e-8527-f4ded9432e85.png",
+        "description": null,
+        "training_date": "2020-12-08T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-08T16:32:38.008Z",
+        "updated_at": "2020-12-08T16:34:17.642Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 68.7018,
+        "size": 17.16,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1297,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 344,
+        "title": "IMG_8098.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/a8e11574-c342-40f2-b094-504a4db040f2_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/a8e11574-c342-40f2-b094-504a4db040f2.png",
+        "description": null,
+        "training_date": "2020-12-08T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-08T16:32:33.881Z",
+        "updated_at": "2020-12-08T16:33:35.026Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 9.05357,
+        "size": 2.46,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1296,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 344,
+        "title": "IMG_8089.MP4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/314b5e3f-b262-410a-9587-484b03b7afea_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/314b5e3f-b262-410a-9587-484b03b7afea.png",
+        "description": null,
+        "training_date": "2020-12-08T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-08T16:32:31.593Z",
+        "updated_at": "2020-12-08T16:33:32.249Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 8,
+        "size": 10.25,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1295,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 344,
+        "title": "IMG_8095.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/cb4f59ea-2e68-483e-ae9a-8ca12d2e8bce_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/cb4f59ea-2e68-483e-ae9a-8ca12d2e8bce.png",
+        "description": null,
+        "training_date": "2020-12-08T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-08T16:31:22.741Z",
+        "updated_at": "2020-12-08T16:33:03.038Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 68.7018,
+        "size": 17.16,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1294,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 344,
+        "title": "IMG_8096.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/60c2e908-380c-4fa7-a506-5a9636b7afe1_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/60c2e908-380c-4fa7-a506-5a9636b7afe1.png",
+        "description": null,
+        "training_date": "2020-12-08T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-08T16:31:18.931Z",
+        "updated_at": "2020-12-08T16:32:23.129Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 3.26667,
+        "size": 0.36,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 4,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1293,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 344,
+        "title": "IMG_8094.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/4d159272-039d-4ec7-b49c-b904b75406a3_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/08-12-2020/4d159272-039d-4ec7-b49c-b904b75406a3.png",
+        "description": null,
+        "training_date": "2020-12-08T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-08T16:31:17.263Z",
+        "updated_at": "2020-12-08T16:32:02.126Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 8.4375,
+        "size": 2.21,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1291,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 342,
+        "title": "IMG_8044.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/07-12-2020/3fb73fb0-1a97-48dd-8b72-902a63e66605_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/07-12-2020/3fb73fb0-1a97-48dd-8b72-902a63e66605.png",
+        "description": null,
+        "training_date": "2020-12-07T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-07T20:08:30.105Z",
+        "updated_at": "2020-12-07T20:12:55.941Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 30.56,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1283,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 340,
+        "title": "IMG_8044",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/04-12-2020/95773538-5bc6-4654-b24f-e56b8eef08c7_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/04-12-2020/95773538-5bc6-4654-b24f-e56b8eef08c7.png",
+        "description": null,
+        "training_date": "2020-12-04T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-04T21:46:52.917Z",
+        "updated_at": "2020-12-04T21:51:28.280Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 30.56,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1279,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 337,
+        "title": "IMG_8044.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/03-12-2020/c49ac3d3-771e-4334-8791-ffa237d919ff_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/03-12-2020/c49ac3d3-771e-4334-8791-ffa237d919ff.png",
+        "description": null,
+        "training_date": "2020-12-03T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-03T17:38:35.408Z",
+        "updated_at": "2020-12-03T17:42:18.630Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 30.56,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1278,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 337,
+        "title": "62870989234__92045934-2E99-429A-B4B5-961A03AD7555.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/03-12-2020/c07d7f6e-81b0-41af-8c0b-f4c1075ea097_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/generic/thumbnail.png",
+        "description": null,
+        "training_date": "2020-12-03T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-03T17:38:30.060Z",
+        "updated_at": "2020-12-03T17:39:23.129Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 0.458333,
+        "size": 0.06,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1277,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 337,
+        "title": "IMG_8044.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/03-12-2020/c818df31-a6f2-4ff8-b71b-abcd9245639d_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/03-12-2020/c818df31-a6f2-4ff8-b71b-abcd9245639d.png",
+        "description": null,
+        "training_date": "2020-12-03T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-12-03T17:16:47.418Z",
+        "updated_at": "2020-12-03T17:21:18.236Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 30.56,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1264,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 330,
+        "title": "trim.6EC487B3-1EA4-4BE6-A7AE-E70384F37CA8.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/35d91fc4-8b0a-4683-8ddc-f3c9818be8ce_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/35d91fc4-8b0a-4683-8ddc-f3c9818be8ce.png",
+        "description": null,
+        "training_date": "2020-11-11T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-11-11T19:02:34.860Z",
+        "updated_at": "2020-11-11T19:04:27.766Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 1311.8,
+        "size": 345.54,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1263,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 330,
+        "title": "trim.70EDC06A-7373-4E45-A4CF-E868A4D826A5.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/364de1bf-c185-4352-b604-5dfe5b1e84ac_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/364de1bf-c185-4352-b604-5dfe5b1e84ac.png",
+        "description": null,
+        "training_date": "2020-11-11T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-11-11T18:30:51.966Z",
+        "updated_at": "2020-11-11T18:35:22.576Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 0,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1262,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 330,
+        "title": "trim.6E3FD479-FF8D-4465-A0F9-16B927E8E770.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/4bb60c33-a364-4989-bb31-7dc19a7c6d96_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/4bb60c33-a364-4989-bb31-7dc19a7c6d96.png",
+        "description": null,
+        "training_date": "2020-11-11T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-11-11T18:30:46.166Z",
+        "updated_at": "2020-11-11T18:32:34.563Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 1311.8,
+        "size": 0,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 1,
+        "total_drills": 1,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1260,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 330,
+        "title": "trim.EE86B4E0-6F00-4D09-87F5-30EC757F72BB.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/354f5303-d016-49a9-9704-8bf8c0fb959d_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-11-2020/354f5303-d016-49a9-9704-8bf8c0fb959d.png",
+        "description": null,
+        "training_date": "2020-11-11T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-11-11T18:11:56.729Z",
+        "updated_at": "2020-11-11T18:13:45.774Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 1311.8,
+        "size": 345.54,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1145,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 304,
+        "title": "video1601305595156.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/28-09-2020/5d3172ee-9b18-4fc5-9f3f-0bf1f40a3b7e_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/28-09-2020/5d3172ee-9b18-4fc5-9f3f-0bf1f40a3b7e.png",
+        "description": null,
+        "training_date": "2020-09-28T00:00:00.000Z",
+        "metadata": {
+          "actions": [
+            {
+              "start": 0,
+              "end": 0.024559045419553505,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.06492098729792148,
+              "end": 0.09378934757505773,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.1558177829099307,
+              "end": 0.18468614318706697,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.23170227097767512,
+              "end": 0.2605706312548114,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.3829970361816782,
+              "end": 0.4118653964588144,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.6155722382602002,
+              "end": 0.6444405985373365,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            }
+          ]
+        },
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-09-28T15:06:49.903Z",
+        "updated_at": "2020-11-04T16:26:02.951Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 2,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1144,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 303,
+        "title": "video1601194022174.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/27-09-2020/b9ffdd94-8d83-4192-9590-23a6cc03c3e3_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/27-09-2020/b9ffdd94-8d83-4192-9590-23a6cc03c3e3.png",
+        "description": null,
+        "training_date": "2020-09-27T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-09-27T08:07:11.478Z",
+        "updated_at": "2020-09-27T08:08:10.397Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 23.3929,
+        "size": 110574,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 1,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1138,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 228,
+        "title": "trim.38D39C3B-2A7D-4BD8-BBDC-021013B0B3A0.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/10-05-2020/cd2a7462-8b06-4973-bc5a-e21cc93854dc_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/10-05-2020/cd2a7462-8b06-4973-bc5a-e21cc93854dc.png",
+        "description": null,
+        "training_date": "2020-05-10T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["player", "valid", "Valid 1"]
+        },
+        "created_at": "2020-09-16T19:42:31.966Z",
+        "updated_at": "2020-09-16T19:46:56.263Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 30.56,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      }
+    ]
+  },
+
+  {
+    "page": 2,
+    "pageSize": 20,
+    "numPages": 7,
+    "numRows": 135,
+    "data": [
+      {
+        "id": 1124,
+        "user_id": 180,
+        "team_id": 117,
+        "training_session_id": 292,
+        "title": "trim.598E3266-131E-46FE-A1E8-3AB3E7946080.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/duration-test/24-08-2020/1cb752f0-bc1a-4a7f-aa4f-6a21ec89f1de_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/duration-test/24-08-2020/1cb752f0-bc1a-4a7f-aa4f-6a21ec89f1de.png",
+        "description": null,
+        "training_date": "2020-08-24T00:00:00.000Z",
+        "metadata": {
+          "actions": [
+            {
+              "start": 0.112,
+              "end": 0.12,
+              "score": 1,
+              "action": "batting"
+            },
+            {
+              "start": 0.32,
+              "end": 0.42,
+              "score": 1,
+              "action": "batting"
+            },
+            {
+              "start": 0.52,
+              "end": 0.62,
+              "score": 1,
+              "action": "batting"
+            },
+            {
+              "start": 0.72,
+              "end": 0.82,
+              "score": 1,
+              "action": "batting"
+            }
+          ]
+        },
+        "tags": {
+          "tags": ["Nathan", "Bold", "Duration Test"]
+        },
+        "created_at": "2020-08-24T07:22:16.155Z",
+        "updated_at": "2020-08-24T07:26:42.842Z",
+        "video_type": "OTHER",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 30.56,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 3,
+        "total_drills": 1,
+        "team": {
+          "id": 117,
+          "name": "Senior 3",
+          "is_private": false,
+          "slug": "duration-test"
+        }
+      },
+      {
+        "id": 1121,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 289,
+        "title": "trim.0C055A31-9B4D-4737-ABC0-AF482ADB59E3.MOV",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/15-08-2019/cb8ed652-edf4-4b1d-b2e3-7e3cbfb22041_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/15-08-2019/cb8ed652-edf4-4b1d-b2e3-7e3cbfb22041.png",
+        "description": null,
+        "training_date": "2019-08-15T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-15T09:46:16.291Z",
+        "updated_at": "2020-08-15T09:50:42.200Z",
+        "video_type": "BOWLING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 30.56,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 1,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1120,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 288,
+        "title": "video1597131530101.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-08-2020/1c54d4be-6522-4d11-b2d7-0c582c7e63d4_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/11-08-2020/1c54d4be-6522-4d11-b2d7-0c582c7e63d4.png",
+        "description": null,
+        "training_date": "2020-08-11T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-11T07:39:03.996Z",
+        "updated_at": "2020-08-11T07:43:28.725Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 2,
+        "total_drills": 2,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1119,
+        "user_id": 180,
+        "team_id": 88,
+        "training_session_id": 287,
+        "title": "video1597131435595.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-private/11-08-2020/348c2358-441c-429f-a219-34c6ed2b7660_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-private/11-08-2020/348c2358-441c-429f-a219-34c6ed2b7660.png",
+        "description": null,
+        "training_date": "2020-08-11T00:00:00.000Z",
+        "metadata": {
+          "actions": [
+            {
+              "start": 0,
+              "end": 0.024559045419553505,
+              "score": 1,
+              "source": "annotations",
+              "action": "bowling"
+            },
+            {
+              "start": 0.06492098729792148,
+              "end": 0.09378934757505773,
+              "score": 1,
+              "source": "annotations",
+              "action": "bowling"
+            },
+            {
+              "start": 0.1558177829099307,
+              "end": 0.18468614318706697,
+              "score": 1,
+              "source": "annotations",
+              "action": "bowling"
+            },
+            {
+              "start": 0.23170227097767512,
+              "end": 0.2605706312548114,
+              "score": 1,
+              "source": "annotations",
+              "action": "bowling"
+            },
+            {
+              "start": 0.3829970361816782,
+              "end": 0.4118653964588144,
+              "score": 1,
+              "source": "annotations",
+              "action": "bowling"
+            },
+            {
+              "start": 0.6155722382602002,
+              "end": 0.6444405985373365,
+              "score": 1,
+              "source": "annotations",
+              "action": "bowling"
+            }
+          ]
+        },
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid Private"]
+        },
+        "created_at": "2020-08-11T07:37:26.354Z",
+        "updated_at": "2020-08-11T07:41:49.224Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 88,
+          "name": "Valid Private",
+          "is_private": false,
+          "slug": "valid-private"
+        }
+      },
+      {
+        "id": 1118,
+        "user_id": 180,
+        "team_id": 88,
+        "training_session_id": 287,
+        "title": "video1597131046142.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-private/11-08-2020/395d3b03-93eb-4d5c-8044-78210942bf0a_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-private/11-08-2020/395d3b03-93eb-4d5c-8044-78210942bf0a.png",
+        "description": null,
+        "training_date": "2020-08-11T00:00:00.000Z",
+        "metadata": {
+          "actions": [
+            {
+              "start": 0,
+              "end": 0.024559045419553505,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.06492098729792148,
+              "end": 0.09378934757505773,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.1558177829099307,
+              "end": 0.18468614318706697,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.23170227097767512,
+              "end": 0.2605706312548114,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.3829970361816782,
+              "end": 0.4118653964588144,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            },
+            {
+              "start": 0.6155722382602002,
+              "end": 0.6444405985373365,
+              "score": 1,
+              "source": "annotations",
+              "action": "batting"
+            }
+          ]
+        },
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid Private"]
+        },
+        "created_at": "2020-08-11T07:31:04.256Z",
+        "updated_at": "2020-08-11T07:35:30.398Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 88,
+          "name": "Valid Private",
+          "is_private": false,
+          "slug": "valid-private"
+        }
+      },
+      {
+        "id": 1115,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 286,
+        "title": "video1596822711592.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/07-08-2020/6f985d9c-a68a-49b3-8405-dd87c524acac_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/07-08-2020/6f985d9c-a68a-49b3-8405-dd87c524acac.png",
+        "description": null,
+        "training_date": "2020-08-07T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-07T17:52:48.153Z",
+        "updated_at": "2020-08-07T17:53:30.491Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 8.9,
+        "size": 110574,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 3,
+        "total_drills": 1,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1114,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 286,
+        "title": "video1596822703982.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/07-08-2020/7ad453d7-287f-43d2-ae1d-8432a9d2d0f4_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/07-08-2020/7ad453d7-287f-43d2-ae1d-8432a9d2d0f4.png",
+        "description": null,
+        "training_date": "2020-08-07T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-07T17:52:44.997Z",
+        "updated_at": "2020-08-07T17:55:45.326Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 120.2,
+        "size": 110574,
+        "uploaded_by": 180,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 1,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1110,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740452865.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/a6dd57f3-87cd-4cf5-928a-dae2edda7019_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/a6dd57f3-87cd-4cf5-928a-dae2edda7019.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T19:01:03.248Z",
+        "updated_at": "2020-08-06T19:04:39.991Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1109,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740313602.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/892f9754-02cc-4af5-abef-d5818e55b782_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/892f9754-02cc-4af5-abef-d5818e55b782.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:59:10.281Z",
+        "updated_at": "2020-08-06T19:03:34.922Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1108,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740313607.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/ec8ec8f8-56b1-4274-b2e6-e4749766cf0a_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/ec8ec8f8-56b1-4274-b2e6-e4749766cf0a.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:59:02.511Z",
+        "updated_at": "2020-08-06T19:03:31.296Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1107,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740309450.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/0d819db9-3903-4a33-b4ae-866e0bd46830_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/0d819db9-3903-4a33-b4ae-866e0bd46830.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:58:52.836Z",
+        "updated_at": "2020-08-06T19:03:21.054Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1106,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740305207.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/139ed37c-a7d0-46bf-939f-ebf646899a48_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/139ed37c-a7d0-46bf-939f-ebf646899a48.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:58:43.761Z",
+        "updated_at": "2020-08-06T19:03:10.937Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1105,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740222350.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/01e228f1-7c2d-40c9-b8d7-b414dcf93a89_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/01e228f1-7c2d-40c9-b8d7-b414dcf93a89.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:57:12.390Z",
+        "updated_at": "2020-08-06T19:00:50.390Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1104,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740197000.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/831d978a-2748-45a3-a16e-0c0f26072bc0_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/831d978a-2748-45a3-a16e-0c0f26072bc0.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {
+          "actions": [
+            {
+              "start": 0.112,
+              "end": 0.12,
+              "score": 1,
+              "type": "batting"
+            }
+          ]
+        },
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:56:47.271Z",
+        "updated_at": "2020-08-06T19:01:14.597Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1103,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740111128.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/0897e2f8-1f42-4128-88fa-60417d93ba24_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/0897e2f8-1f42-4128-88fa-60417d93ba24.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:55:20.055Z",
+        "updated_at": "2020-08-06T18:58:55.833Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1102,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596740007254.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/0243cdd5-083c-45da-b9da-606c841c77f2_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/0243cdd5-083c-45da-b9da-606c841c77f2.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:53:37.072Z",
+        "updated_at": "2020-08-06T18:58:04.495Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1101,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596739955105.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/9ad024e0-a835-4a13-817b-e7835a11be21_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/9ad024e0-a835-4a13-817b-e7835a11be21.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:52:46.047Z",
+        "updated_at": "2020-08-06T18:56:21.798Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1100,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596739902285.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/2837c644-22a6-469a-97f8-8968595ac19d_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/2837c644-22a6-469a-97f8-8968595ac19d.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:51:51.896Z",
+        "updated_at": "2020-08-06T18:56:19.699Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1099,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596739602613.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/76308c64-21eb-4494-a172-cba1fba80f76_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/76308c64-21eb-4494-a172-cba1fba80f76.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:46:54.372Z",
+        "updated_at": "2020-08-06T18:51:21.920Z",
+        "video_type": "BATTING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      },
+      {
+        "id": 1098,
+        "user_id": 180,
+        "team_id": 87,
+        "training_session_id": 282,
+        "title": "video1596739550967.mp4",
+        "source_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/b5aaf19e-b37b-4490-b310-2bfd566e7956_transcoded.mp4",
+        "thumbnail_url": "https://drm3fq0212kn3.cloudfront.net/ludimos-valid/valid-1/06-08-2020/b5aaf19e-b37b-4490-b310-2bfd566e7956.png",
+        "description": null,
+        "training_date": "2020-08-06T00:00:00.000Z",
+        "metadata": {},
+        "tags": {
+          "tags": ["Nathan", "Bold", "Valid 1"]
+        },
+        "created_at": "2020-08-06T18:46:01.584Z",
+        "updated_at": "2020-08-06T18:50:24.193Z",
+        "video_type": "BOWLING",
+        "status": "DONE",
+        "archived": false,
+        "duration": 103.92,
+        "size": 5951,
+        "uploaded_by": 179,
+        "user": {
+          "id": 180,
+          "firstname": "Adam",
+          "lastname": "Spicer",
+          "profile_pic": "https://drm3fq0212kn3.cloudfront.net/profile-pictures/576f8510-dadd-4111-8cdd-f47fe5f54127_scaled.png"
+        },
+        "total_feedback": 0,
+        "total_drills": 0,
+        "team": {
+          "id": 87,
+          "name": "Senior 1",
+          "is_private": false,
+          "slug": "valid-1"
+        }
+      }
+    ]
+  }
+]
