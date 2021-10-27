@@ -5,46 +5,44 @@
       <div class="post__body">
         <p>Your Feed</p>
         <div>
-          <div v-for="(video, index) in videos" :key="index">
-            <div>
-              <div
-                class="list-group-item"
-                v-for="vid in video.data"
-                :key="vid.id"
-              >
-                <div class="post__header">
-                  <i class="material-icons sidebar__topAvatar">
-                    <img :src="vid.user.profile_pic" class="img" />
-                  </i>
-                  <div class="post__info">
-                    <h2>
-                      {{ vid.user.firstname }} # Training Date :
-                      {{ vid.training_date }}
-                    </h2>
-                    <h2></h2>
-                  </div>
+          <div v-for="video in videos" :key="video.id">
+            <div
+              class="list-group-item"
+              v-for="vid in video.data"
+              :key="vid.id"
+            >
+              <div class="post__header">
+                <i class="material-icons sidebar__topAvatar">
+                  <img :src="vid.user.profile_pic" class="img" />
+                </i>
+                <div class="post__info">
+                  <h2>
+                    {{ vid.user.firstname }} # Training Date :
+                    {{ vid.training_date }}
+                  </h2>
+                  <h2></h2>
                 </div>
+              </div>
 
-                <video width="320" height="240" controls>
-                  <source :src="vid.source_url" type="video/mp4" />
-                </video>
-                <div class="feed__inputOptions">
-                  <div class="inputOption">
-                    <i style="color: gray" class="material-icons"> thumb_up </i>
-                    <h4>Like</h4>
-                  </div>
-                  <div class="inputOption">
-                    <i style="color: gray" class="material-icons"> comment </i>
-                    <h4>Comment</h4>
-                  </div>
-                  <div class="inputOption">
-                    <i style="color: gray" class="material-icons"> share </i>
-                    <h4>Share</h4>
-                  </div>
-                  <div class="inputOption">
-                    <i style="color: gray" class="material-icons"> send </i>
-                    <h4>Send</h4>
-                  </div>
+              <video width="320" height="240" controls>
+                <source :src="vid.source_url" type="video/mp4" />
+              </video>
+              <div class="feed__inputOptions">
+                <div class="inputOption">
+                  <i style="color: gray" class="material-icons"> thumb_up </i>
+                  <h4>Like</h4>
+                </div>
+                <div class="inputOption">
+                  <i style="color: gray" class="material-icons"> comment </i>
+                  <h4>Comment</h4>
+                </div>
+                <div class="inputOption">
+                  <i style="color: gray" class="material-icons"> share </i>
+                  <h4>Share</h4>
+                </div>
+                <div class="inputOption">
+                  <i style="color: gray" class="material-icons"> send </i>
+                  <h4>Send</h4>
                 </div>
               </div>
             </div>
