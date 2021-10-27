@@ -1,4 +1,4 @@
-`A Vue js App With GraphQL`
+`A Vue js App With Node.js and Typescript`
 
 💻 Technologies
 
