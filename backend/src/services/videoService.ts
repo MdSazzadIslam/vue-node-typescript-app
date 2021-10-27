@@ -1,6 +1,5 @@
 import { IServerResponse, IVideo } from "../models/video";
 import Video from "../../mockdata.json";
-import fs from "fs";
 import { config } from "dotenv";
 
 config();
@@ -20,11 +19,9 @@ class VideoService {
     max_duration: number
   ): Promise<any> => {
     try {
-      const res: IServerResponse[] = Video.filter(
+      return Video.filter(
         (item) => item.page === _page && item.pageSize === _pageSize
       );
-
-      return res;
     } catch (err) {
       console.error(err);
     }

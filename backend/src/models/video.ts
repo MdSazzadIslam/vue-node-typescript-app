@@ -29,6 +29,9 @@ export interface IVideo {
 
 export interface IServerResponse {
   user_id?: number;
+  team_id?: number;
+  training_session_id?: number;
+  duration?: number;
   msg?: string;
   status?: string;
   videos?: IVideo[];
