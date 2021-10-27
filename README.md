@@ -1,4 +1,4 @@
-`A Video Streaming App With Vue.js, Node, And Express`
+`A Vue js App With GraphQL`
 
 💻 Technologies
 
